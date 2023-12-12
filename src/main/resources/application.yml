@@ -1,0 +1,3 @@
+jwt:
+  secret: fhuhdeuejijkgj4548594864v6464644vjkvjtkv46j6k4vk4mk6nv4893835kkfnd
+  lifetime: 30m
